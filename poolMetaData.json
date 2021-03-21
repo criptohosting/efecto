@@ -1,0 +1,8 @@
+cat > poolMetaData.json << EOF
+{
+"name": "EFECTO",
+"description": "Infraestrucuta en la nube | Monitorizacion 24/7 | SPANISH POOL",
+"ticker": "ECO",
+"homepage": "https://twitter.com/EfectoM48773887"
+}
+EOF
